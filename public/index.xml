@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>首页 on 硬件工程师作品集</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in 首页 on 硬件工程师作品集</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: 关于我&lt;/p&gt;
+&lt;p&gt;date: 2026-01-01&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## 个人简介&lt;/p&gt;
+&lt;p&gt;硬件电子工程师，深耕**消费电源与快充硬件研发**。&lt;/p&gt;
+&lt;p&gt;长期自主开发实战硬件项目，设计风格偏向**工程落地、高稳定性、高兼容性、可量产**。&lt;/p&gt;
+&lt;p&gt;擅长从0到1完成电源产品开发：&lt;/p&gt;
+&lt;p&gt;方案选型 → 原理图设计 → PCB布局 → 仿真验证 → 样机调试 → EMC整改 → 量产优化。&lt;/p&gt;
+&lt;p&gt;## 职业理念&lt;/p&gt;
+&lt;p&gt;不做理论设计，只做**能稳定工作、能过测试、能量产**的硬件方案。&lt;/p&gt;
+&lt;p&gt;## 联系方式&lt;/p&gt;
+&lt;p&gt;- 邮箱：xxxx@shturl.&lt;/p&gt;
+&lt;p&gt;- 微信：xxxx&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/projects/buck-converter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/buck-converter/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: BUCK 降压电源&lt;/p&gt;
+&lt;p&gt;date: 2026-01-01&lt;/p&gt;
+&lt;p&gt;tags: [硬件项目,电源设计,USB PD]&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## 项目概述&lt;/p&gt;
+&lt;p&gt;本项目为**个人独立从零自研大功率双向快充移动电源**，完整覆盖硬件全流程开发。&lt;/p&gt;
+&lt;p&gt;主打**高效率、低温升、协议兼容广、低待机功耗、高可靠性**，可用于手机、平板、笔记本PD大功率快充。&lt;/p&gt;
+&lt;p&gt;## 核心硬件参数&lt;/p&gt;
+&lt;p&gt;| 参数项 | 规格 |&lt;/p&gt;
+&lt;p&gt;| :&amp;mdash; | :&amp;mdash; |&lt;/p&gt;
+&lt;p&gt;| 电池规格 | 20000mAh 21700锂电 |&lt;/p&gt;
+&lt;p&gt;| 输入接口 | Type‑C PD快充 |&lt;/p&gt;
+&lt;p&gt;| 输出接口 | Type‑C PD、USB‑A 双口快充 |&lt;/p&gt;
+&lt;p&gt;| 支持协议 | PD2.0/3.0、PPS、QC、SCP、FCP |&lt;/p&gt;
+&lt;p&gt;| 转换效率 | 满载≥93% |&lt;/p&gt;
+&lt;p&gt;| 待机功耗 | 超低静态功耗，久放不掉电 |&lt;/p&gt;
+&lt;p&gt;| 保护机制 | OVP/UVP/OCP/短路/过温/电池反接保护 |&lt;/p&gt;
+&lt;p&gt;| 温控方式 | NTC实时测温，高温降功率/停机保护 |&lt;/p&gt;
+&lt;p&gt;## 项目展示素材（可配图）&lt;/p&gt;
+&lt;p&gt;- 整机45°外观实拍、正面、侧面、背面&lt;/p&gt;
+&lt;p&gt;- 拆机内部结构实拍&lt;/p&gt;
+&lt;p&gt;- 电子负载充放电功率实测图&lt;/p&gt;
+&lt;p&gt;- USB PD协议握手截图&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/projects/powerbank/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/powerbank/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: 20000mAh 双向PD快充移动电源&lt;/p&gt;
+&lt;p&gt;date: 2026-01-01&lt;/p&gt;
+&lt;p&gt;tags: [硬件项目,电源设计,USB PD]&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## 项目概述&lt;/p&gt;
+&lt;p&gt;本项目为**个人独立从零自研大功率双向快充移动电源**，完整覆盖硬件全流程开发。&lt;/p&gt;
+&lt;p&gt;主打**高效率、低温升、协议兼容广、低待机功耗、高可靠性**，可用于手机、平板、笔记本PD大功率快充。&lt;/p&gt;
+&lt;p&gt;## 核心硬件参数&lt;/p&gt;
+&lt;p&gt;| 参数项 | 规格 |&lt;/p&gt;
+&lt;p&gt;| :&amp;mdash; | :&amp;mdash; |&lt;/p&gt;
+&lt;p&gt;| 电池规格 | 20000mAh 21700锂电 |&lt;/p&gt;
+&lt;p&gt;| 输入接口 | Type‑C PD快充 |&lt;/p&gt;
+&lt;p&gt;| 输出接口 | Type‑C PD、USB‑A 双口快充 |&lt;/p&gt;
+&lt;p&gt;| 支持协议 | PD2.0/3.0、PPS、QC、SCP、FCP |&lt;/p&gt;
+&lt;p&gt;| 转换效率 | 满载≥93% |&lt;/p&gt;
+&lt;p&gt;| 待机功耗 | 超低静态功耗，久放不掉电 |&lt;/p&gt;
+&lt;p&gt;| 保护机制 | OVP/UVP/OCP/短路/过温/电池反接保护 |&lt;/p&gt;
+&lt;p&gt;| 温控方式 | NTC实时测温，高温降功率/停机保护 |&lt;/p&gt;
+&lt;p&gt;## 项目展示素材（可配图）&lt;/p&gt;
+&lt;p&gt;- 整机45°外观实拍、正面、侧面、背面&lt;/p&gt;
+&lt;p&gt;- 拆机内部结构实拍&lt;/p&gt;
+&lt;p&gt;- 电子负载充放电功率实测图&lt;/p&gt;
+&lt;p&gt;- USB PD协议握手截图&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/skills/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: 专业技能&lt;/p&gt;
+&lt;p&gt;date: 2026-01-01&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## 一、电路设计能力&lt;/p&gt;
+&lt;p&gt;- 开关电源拓扑：Buck / Boost / Buck-Boost 设计与环路调试&lt;/p&gt;
+&lt;p&gt;- USB PD快充协议电路、多品牌快充兼容电路开发&lt;/p&gt;
+&lt;p&gt;- 锂电池充放电管理、过充过放短路保护、NTC温控电路&lt;/p&gt;
+&lt;p&gt;- 电量计采样、电压电流检测、数模混合控制电路&lt;/p&gt;
+&lt;p&gt;## 二、PCB设计能力&lt;/p&gt;
+&lt;p&gt;- 2层/4层高密度PCB Layout&lt;/p&gt;
+&lt;p&gt;- 大功率电源散热铺铜、多过孔、热源分区布局&lt;/p&gt;
+&lt;p&gt;- 功率地/信号地分割、模拟数字隔离、EMC布局优化&lt;/p&gt;
+&lt;p&gt;- DFM可制造性优化，适配SMT批量生产&lt;/p&gt;
+&lt;p&gt;## 三、熟练工具&lt;/p&gt;
+&lt;p&gt;- 设计软件：AD、KiCad、立创EDA、3D结构预览&lt;/p&gt;
+&lt;p&gt;- 仿真工具：LTspice 电源环路、纹波、补偿仿真&lt;/p&gt;
+&lt;p&gt;- 测试设备：示波器、电子负载、可调电源、测温仪器&lt;/p&gt;
+&lt;p&gt;- 文档输出：BOM整理、规格书、测试报告、整改复盘文档&lt;/p&gt;
+&lt;p&gt;## 四、工程实战能力&lt;/p&gt;
+&lt;p&gt;- 产品方案评估、器件选型、成本优化&lt;/p&gt;
+&lt;p&gt;- 样机焊接、上电调试、故障定位&lt;/p&gt;
+&lt;p&gt;- 传导辐射EMI整改、温升优化、待机功耗优化&lt;/p&gt;
+&lt;p&gt;- 对接打板、贴片、解决量产稳定性问题&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

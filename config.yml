@@ -1,0 +1,45 @@
+# 站点基础信息
+baseURL: "/"  
+languageCode: zh-cn
+title: "硬件工程师作品集"
+theme: PaperMod
+
+# 全局参数
+params:
+  author: "Harley.wang"
+  description: "硬件PCB、嵌入式、电源设计技术笔记"
+  defaultTheme: auto
+  ShowToc: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  # 新增：每页展示项目数量
+  paginationSize: 10
+  # 开启文章摘要预览
+  ShowSummary: true
+  # 首页读取projects为主要内容区
+  mainSections: ["projects"]
+
+# 顶部导航菜单（匹配你content里的about、skills、projects页面）
+menu:
+  main:
+    - name: 首页
+      url: /
+      weight: 1
+
+    - name: 项目
+      url: /projects/
+      weight: 2
+
+    - name: 技能
+      url: /skills/
+      weight: 3
+
+    - name: 关于我
+      url: /about/
+      weight: 4
+
+# 分类/标签配置（适配projects项目列表） 
+taxonomies:
+  - tag: tags
+  - category: categories
+
