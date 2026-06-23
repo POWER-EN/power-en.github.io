@@ -1,5 +1,5 @@
 # 站点基础信息
-baseURL: "https://github.com/power-en/power-en.github.io.git"  
+baseURL: "https://power-en.github.io/"
 languageCode: zh-cn
 title: "硬件工程师作品集"
 theme: PaperMod
