@@ -1,8 +1,11 @@
-# 站点基础信息
+# 站点基础信息（统一YAML冒号语法）
 baseURL: "https://power-en.github.io/"
 languageCode: zh-cn
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true
 title: "硬件工程师作品集"
 theme: PaperMod
+paginationSize: 10
 
 # 全局参数
 params:
@@ -12,34 +15,28 @@ params:
   ShowToc: true
   ShowReadingTime: true
   ShowPostNavLinks: true
-  # 新增：每页展示项目数量
-  paginationSize: 10
-  # 开启文章摘要预览
   ShowSummary: true
+  search: true
   # 首页读取projects为主要内容区
   mainSections: ["projects"]
 
-# 顶部导航菜单（匹配你content里的about、skills、projects页面）
+# 顶部导航菜单
 menu:
   main:
     - name: 首页
       url: /
       weight: 1
-
     - name: 项目
       url: /projects/
       weight: 2
-
     - name: 技能
       url: /skills/
       weight: 3
-
     - name: 关于我
       url: /about/
       weight: 4
 
-# 分类/标签配置（适配projects项目列表） 
+# 分类/标签配置（修正格式）
 taxonomies:
-  - tag: tags
-  - category: categories
-
+  tag: tags
+  category: categories
