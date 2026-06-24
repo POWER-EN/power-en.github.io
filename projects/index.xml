@@ -1,38 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Projects on 硬件工程师作品集</title>
-    <link>https://power-en.github.io/projects/</link>
-    <description>Recent content in Projects on 硬件工程师作品集</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <atom:link href="https://power-en.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://power-en.github.io/projects/buck-converter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://power-en.github.io/projects/buck-converter/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
-&lt;p&gt;title: BUCK 降压电源&lt;/p&gt;
-&lt;p&gt;date: 2026-01-01&lt;/p&gt;
-&lt;p&gt;tags: [硬件项目,电源设计,USB PD]&lt;/p&gt;
-&lt;p&gt;-&amp;ndash;&lt;/p&gt;
-&lt;p&gt;## 项目概述&lt;/p&gt;
-&lt;p&gt;本项目为**个人独立从零自研大功率双向快充移动电源**，完整覆盖硬件全流程开发。&lt;/p&gt;
-&lt;p&gt;主打**高效率、低温升、协议兼容广、低待机功耗、高可靠性**，可用于手机、平板、笔记本PD大功率快充。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://power-en.github.io/projects/powerbank/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://power-en.github.io/projects/powerbank/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on 硬件工程师作品集</title><link>https://power-en.github.io/projects/</link><description>Recent content in Projects on 硬件工程师作品集</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://power-en.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>BUCK 降压电源</title><link>https://power-en.github.io/projects/buck-converter/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://power-en.github.io/projects/buck-converter/</guid><description>&lt;h2 id="项目概述"&gt;项目概述&lt;/h2&gt;
+&lt;p&gt;本项目为&lt;strong&gt;个人独立从零自研大功率双向快充移动电源&lt;/strong&gt;，完整覆盖硬件全流程开发。&lt;/p&gt;
+&lt;p&gt;主打&lt;strong&gt;高效率、低温升、协议兼容广、低待机功耗、高可靠性&lt;/strong&gt;，可用于手机、平板、笔记本PD大功率快充。&lt;/p&gt;</description></item><item><title/><link>https://power-en.github.io/projects/powerbank/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://power-en.github.io/projects/powerbank/</guid><description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
 &lt;p&gt;title: 20000mAh 双向PD快充移动电源&lt;/p&gt;
 &lt;p&gt;date: 2026-01-01&lt;/p&gt;
 &lt;p&gt;tags: [硬件项目,电源设计,USB PD]&lt;/p&gt;
 &lt;p&gt;-&amp;ndash;&lt;/p&gt;
 &lt;p&gt;## 项目概述&lt;/p&gt;
-&lt;p&gt;本项目为**个人独立从零自研大功率双向快充移动电源**，完整覆盖硬件全流程开发。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;本项目为**个人独立从零自研大功率双向快充移动电源**，完整覆盖硬件全流程开发。&lt;/p&gt;</description></item></channel></rss>
