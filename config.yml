@@ -19,6 +19,8 @@ params:
   search: true
   # 首页读取projects为主要内容区
   mainSections: ["projects"]
+  # 关闭首页第一篇文章特殊无卡片样式
+  disableSpecial1stPost: true
 
 # 顶部导航菜单
 menu:
